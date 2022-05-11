@@ -1,4 +1,4 @@
-a = input("Enter first number: ")
-ji
-
- = input("Enter second number: ")
+a = int(input("Enter first number : "))
+b = int(input("Enter second number: "))
+total = a + b
+print("Total = " + str(total))
